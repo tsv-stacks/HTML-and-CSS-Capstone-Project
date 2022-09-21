@@ -143,19 +143,19 @@ table, th, td {
     text-align: center;
     width: 80vw;
     margin: 0 auto;
+    max-width: 700px;
  }
 
  legend {
     text-align: left;
  }
 .fav-sting-and-move {
-    display: flex;
-    justify-content: space-evenly;
-
+   display: flex;
 }
 
 .fav-sting-radio {
     flex-grow: 1;
+    border-right: 1px solid;
 }
 
 .fav-sting-moves {
