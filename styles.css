@@ -107,7 +107,7 @@ button:hover {
 /* Page 2 Evolution */
 
 .parent {
-    display: grid;
+    display: table;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(3, 1fr);
     grid-column-gap: 0px;
